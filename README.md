@@ -1,12 +1,10 @@
 # In a Nutshell
 NLP Project
 
-**Title**
-
+**Title**  
 In a Nutshell - Text Summarization App
 
-**Problem Statement**
-
+**Problem Statement**  
 To summarize an input text which can be raw text, .txt file, website content or online newspaper content.
 
 **Description**
