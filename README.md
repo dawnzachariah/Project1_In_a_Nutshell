@@ -1,5 +1,5 @@
 # In a Nutshell
-NLP Project
+NLP Project in Python
 
 **Title**  
 In a Nutshell - Text Summarization App
