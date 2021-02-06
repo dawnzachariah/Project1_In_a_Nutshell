@@ -15,4 +15,5 @@ To summarize an input text which can be raw text, .txt file, website content or 
 
 
 ![alt text](https://github.com/dawnzachariah/Project4_Text_Summarization_App/blob/main/nutshell1.png?raw=true)
+![alt text](https://github.com/dawnzachariah/Project4_Text_Summarization_App/blob/main/nutshell2.png?raw=true)
 
