@@ -12,8 +12,3 @@ To summarize an input text which can be raw text, .txt file, website content or 
 - The app enables the user to enter text in any of the 4 formats (Raw text, .txt file, website content or online newspaper content). 
 - A summary will be provided as output on the basis of which the user can decide on whether to go on reading the whole text or not.
 - The app was built using Flask framework. 
-
-
-![alt text](https://github.com/dawnzachariah/Project4_Text_Summarization_App/blob/main/nutshell1.png?raw=true)
-![alt text](https://github.com/dawnzachariah/Project4_Text_Summarization_App/blob/main/nutshell2.png?raw=true)
-
